@@ -59,7 +59,7 @@ python block2/solutions.py
 |------|--------|
 | Samokat rollout | Statements 2, 3, 4 are correct — test is not nationally representative |
 | p-value definition | Probability of observing this result (or more extreme), given H₀ is true |
-| t-test on lognormal | ✅ Yes — Central Limit Theorem applies at n > 5,000,000 |
+| t-test on lognormal | Yes — Central Limit Theorem applies at n > 5,000,000 |
 
 ---
 
@@ -81,10 +81,10 @@ git clone https://github.com/<your-username>/da-test-assignment
 cd da-test-assignment
 
 # No external libraries required — only Python standard library
-python block1/solutions.py
-python block2/solutions.py
-python block4/solutions.py
-python block5/solutions.py
+python Block 1.py
+python Block 2.py
+python Block 4.py
+python Block 5.py
 
 # SQL solutions are in block3/solutions.sql
 ```
