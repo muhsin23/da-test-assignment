@@ -38,7 +38,7 @@
 
 **Run all solutions:**
 ```bash
-python block2/solutions.py
+python Block 2.py
 ```
 
 ---
